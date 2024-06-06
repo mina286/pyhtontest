@@ -1,5 +1,6 @@
 x = "Python "
 y = "is "
 z = "awesome"
+v ="lotfy"
 print(x+y+z)
-# mins acomd
+# 2 step to string
