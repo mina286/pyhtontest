@@ -1,6 +1,6 @@
-x = "Python "
-y = "is "
-z = "awesome"
-v ="lotfy"
-print(x+y+z)
-# 2 step to string
+x = 5 
+y =6
+if x <= 1 and  y == 6 :
+    print("ok")
+else:
+    print("no")
